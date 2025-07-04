@@ -15,7 +15,7 @@ import org.junit.Test;
 import org.junit.rules.TemporaryFolder;
 import org.jvnet.hudson.test.JenkinsRule;
 
-import com.gargoylesoftware.htmlunit.Page;
+import org.htmlunit.Page;
 
 import hudson.model.Result;
 import hudson.model.queue.QueueTaskFuture;
